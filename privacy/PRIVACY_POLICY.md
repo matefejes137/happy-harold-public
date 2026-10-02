@@ -1,9 +1,10 @@
 # Happy Harold – Privacy Policy
 
-**Effective date:** 30 September 2026
+**Effective date:** 2 October 2026
 
 This privacy policy explains how the mobile game **Happy Harold** (the "App") handles information.
-The App is developed by an independent developer ("we", "us").
+The App is developed and published by **Blue Stern Consulting Pte. Ltd.**, Singapore ("we", "us"),
+under the name Blue Stern Apps.
 
 ## Summary
 
@@ -78,5 +79,7 @@ address with a new effective date.
 
 ## Contact
 
-If you have any questions about this privacy policy, please contact us using the developer contact
-email shown on the App's Google Play Store page.
+If you have any questions about this privacy policy, or want to request deletion of data, contact us
+at **support@bluesternapps.com**.
+
+Blue Stern Consulting Pte. Ltd., Singapore — https://bluesternapps.com
